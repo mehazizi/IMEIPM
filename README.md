@@ -1,0 +1,10 @@
+سامانه IMEIPM برای سازمان‌ها و شرکت‌هایی طراحی شده است
+ که حجم بالایی از گردش کالاهای سریال‌دار دارند و سرعت، 
+دقت و یکپارچگی اطلاعات در فرآیندهای عملیاتی آن‌ها از اهمیت بالایی برخوردار است.
+
+
+<img width="924" height="624" alt="image" src="https://github.com/user-attachments/assets/b76d61e2-161e-4f0f-8169-41c506691224" />
+<img width="1019" height="673" alt="image" src="https://github.com/user-attachments/assets/1892a5cc-dff3-4df7-be47-8862b36bf82c" />
+
+
+
